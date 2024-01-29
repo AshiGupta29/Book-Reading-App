@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Nagarro.BookReading.Infrastructure",
+    "\\Nagarro.BookReading.Infrastructure\\Repository",
+    "\\Nagarro.BookReading.Web",
+    "\\Nagarro.BookReading.Web\\Controllers",
+    "\\Nagarro.BookReading.Web\\Views",
+    "\\Nagarro.BookReading.Web\\Views\\Account",
+    "\\Nagarro.BookReading.Web\\Views\\Comment",
+    "\\Nagarro.BookReading.Web\\Views\\Event",
+    "\\Nagarro.BookReading.Web\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Nagarro.BookReading.Web\\Controllers\\AccountController.cs",
+  "PreviewInSolutionExplorer": false
+}
